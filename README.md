@@ -1,4 +1,14 @@
-Hi, I'm Dramatopian
+<p align="center">
+# Hi, I'm Dramatopian
+</p>
+<hr>
+<p align="center">
+# About Me:
+18 years old [2006]
+INFP-T | 9w1
+Singaporean [GMT+8]
+</p>
+
 <hr>
 <p align="center">
   <a href="https://dramatopian.com/">
