@@ -1,14 +1,18 @@
-<p align="center">
-# Hi, I'm Dramatopian
-</p>
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi, I'm Dramatopian!</h1>
+    </summary>
+  </ul>
+</div>
 <hr>
 <p align="center">
-# About Me:
-18 years old [2006]
-INFP-T | 9w1
-Singaporean [GMT+8]
+About Me:<br>
+18 years old [2006]<br>
+INFP-T | 9w1<br>
+Singaporean [GMT+8]<br>
 </p>
-
 <hr>
 <p align="center">
   <a href="https://dramatopian.com/">
