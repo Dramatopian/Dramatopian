@@ -1,12 +1,3 @@
-
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>Hi, I'm Dramatopian!</h1>
-    </summary>
-  </ul>
-</div>
-<hr>
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
